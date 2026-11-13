@@ -1,2 +1,2 @@
-# oficina-devops
+# Oficina Devops
 Repositório da Oficina de DevOps.
